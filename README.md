@@ -21,15 +21,6 @@ I am a Software Developer focused on backend development, object-oriented progra
 
 ---
 
-### 📊 GitHub Stats & Cards
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NYKSSilva&show_icons=true&theme=radial&hide_border=true" alt="Silva's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYKSSilva&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
